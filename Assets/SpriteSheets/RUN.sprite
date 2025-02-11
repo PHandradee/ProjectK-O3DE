@@ -1,0 +1,52 @@
+<Sprite versionNumber="2">
+ <SpriteSheet>
+  <Cell topRight="0.0625,0" bottomRight="0.0625,1" bottomLeft="0,1">
+   <Sprite m_right="1" m_bottom="1"/>
+  </Cell>
+  <Cell topLeft="0.0625,0" topRight="0.125,0" bottomRight="0.125,1" bottomLeft="0.0625,1">
+   <Sprite m_right="1" m_bottom="1"/>
+  </Cell>
+  <Cell topLeft="0.125,0" topRight="0.1875,0" bottomRight="0.1875,1" bottomLeft="0.125,1">
+   <Sprite m_right="1" m_bottom="1"/>
+  </Cell>
+  <Cell topLeft="0.1875,0" topRight="0.25,0" bottomRight="0.25,1" bottomLeft="0.1875,1">
+   <Sprite m_right="1" m_bottom="1"/>
+  </Cell>
+  <Cell topLeft="0.25,0" topRight="0.3125,0" bottomRight="0.3125,1" bottomLeft="0.25,1">
+   <Sprite m_right="1" m_bottom="1"/>
+  </Cell>
+  <Cell topLeft="0.3125,0" topRight="0.375,0" bottomRight="0.375,1" bottomLeft="0.3125,1">
+   <Sprite m_right="1" m_bottom="1"/>
+  </Cell>
+  <Cell topLeft="0.375,0" topRight="0.4375,0" bottomRight="0.4375,1" bottomLeft="0.375,1">
+   <Sprite m_right="1" m_bottom="1"/>
+  </Cell>
+  <Cell topLeft="0.4375,0" topRight="0.5,0" bottomRight="0.5,1" bottomLeft="0.4375,1">
+   <Sprite m_right="1" m_bottom="1"/>
+  </Cell>
+  <Cell topLeft="0.5,0" topRight="0.5625,0" bottomRight="0.5625,1" bottomLeft="0.5,1">
+   <Sprite m_right="1" m_bottom="1"/>
+  </Cell>
+  <Cell topLeft="0.5625,0" topRight="0.625,0" bottomRight="0.625,1" bottomLeft="0.5625,1">
+   <Sprite m_right="1" m_bottom="1"/>
+  </Cell>
+  <Cell topLeft="0.625,0" topRight="0.6875,0" bottomRight="0.6875,1" bottomLeft="0.625,1">
+   <Sprite m_right="1" m_bottom="1"/>
+  </Cell>
+  <Cell topLeft="0.6875,0" topRight="0.75,0" bottomRight="0.75,1" bottomLeft="0.6875,1">
+   <Sprite m_right="1" m_bottom="1"/>
+  </Cell>
+  <Cell topLeft="0.75,0" topRight="0.8125,0" bottomRight="0.8125,1" bottomLeft="0.75,1">
+   <Sprite m_right="1" m_bottom="1"/>
+  </Cell>
+  <Cell topLeft="0.8125,0" topRight="0.875,0" bottomRight="0.875,1" bottomLeft="0.8125,1">
+   <Sprite m_right="1" m_bottom="1"/>
+  </Cell>
+  <Cell topLeft="0.875,0" topRight="0.9375,0" bottomRight="0.9375,1" bottomLeft="0.875,1">
+   <Sprite m_right="1" m_bottom="1"/>
+  </Cell>
+  <Cell topLeft="0.9375,0" topRight="1,0" bottomRight="1,1" bottomLeft="0.9375,1">
+   <Sprite m_right="1" m_bottom="1"/>
+  </Cell>
+ </SpriteSheet>
+</Sprite>

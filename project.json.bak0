@@ -1,0 +1,46 @@
+{
+    "project_name": "ProjectK",
+    "version": "1.0.0",
+    "project_id": "{5EC49A65-38FB-475C-B150-717196A0564E}",
+    "origin": "The primary repo for ProjectK goes here: i.e. http://www.mydomain.com",
+    "license": "What license ProjectK uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
+    "display_name": "ProjectK",
+    "summary": "A short description of ProjectK.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "ProjectK"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de",
+    "external_subdirectories": [
+        "Gem"
+    ],
+    "restricted": "ProjectK",
+    "gem_names": [
+        "ProjectK",
+        "Atom",
+        "AudioSystem",
+        "CameraFramework",
+        "DebugDraw",
+        "DiffuseProbeGrid",
+        "EditorPythonBindings",
+        "EMotionFX",
+        "GameState",
+        "ImGui",
+        "LandscapeCanvas",
+        "LyShine",
+        "MiniAudio",
+        "PhysX",
+        "PrimitiveAssets",
+        "PrefabBuilder",
+        "SaveData",
+        "ScriptCanvasPhysics",
+        "ScriptEvents",
+        "StartingPointInput",
+        "TextureAtlas",
+        "WhiteBox",
+        "RemoteTools"
+    ]
+}
